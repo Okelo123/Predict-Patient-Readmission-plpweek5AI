@@ -107,4 +107,5 @@ Support for uploading CSV records for bulk predictions
 
 👨‍⚕️ Built With Purpose
 This project is part of an AI Development Workflow assignment focused on healthcare applications, ethics, deployment, and real-world implementation.
-
+Click the link to check it out 
+https://66ab-35-203-153-248.ngrok-free.app/
